@@ -13,7 +13,7 @@
 <a 
 
 ####  
-rysh11-MD Multi Device Whatsapp Bot.
+rush11-MD Multi Device Whatsapp Bot.
 ## <sub>[External Plugins](https://github.com/Dinuwababah/External-Plugins)</sub>
 
 ***
@@ -26,7 +26,7 @@ Fork The Repo
 
 #### Session ID
 
-<a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="rush-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ## Phoenix-MD Deploy Method
 
