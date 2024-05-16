@@ -14,7 +14,7 @@
 
 ####  
 rush11-MD Multi Device Whatsapp Bot.
-## <sub>[External Plugins](https://github.com/Dinuwababah/External-Plugins)</sub>
+## <sub>[External Plugins](https://github.com/Dinuwababah-Plugins)</sub>
 
 ***
 
