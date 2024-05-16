@@ -4,7 +4,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt=Phoenix-MD height="300" src="https://i.ibb.co/tHWJrz3/IMG-20231128-WA0005.jpg">
+    <img alt=Phoenix-MD height="300" src="https://telegra.ph/file/0cfd55937acc8e0a8a4b3.jpg">
    
 </a> 
     
@@ -22,7 +22,7 @@ rysh11-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="rush-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
@@ -52,7 +52,6 @@ Fork The Repo
  
  ## Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
+sri lankan owner 2025 😍
 **Star ⭐ The Repo For Amazing Commands**
 
