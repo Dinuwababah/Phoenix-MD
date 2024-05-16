@@ -21,12 +21,12 @@ rush11-MD Multi Device Whatsapp Bot.
 #### SETUP
 
 Fork The Repo
+Fork The Repo
     <br>
-<a href="https://github.com/Dinuwababah/rush-MD/blob/012381f2267bc064a36631f338f0897070698b2f/README.md/fork"><img title="rush-MD" src="https://img.shields.io/badge/FORK rush MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
-
+<a href="https://github.com/AbhishekSuresh2/Phoenix-MD/fork"><img title="Phoenix-MD" src="https://img.shields.io/badge/FORK Phoenix MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 #### Session ID
 
-<a href="https://Phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="rush-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
+<a href="https://Phoenix-mdsessionid-0ae5aea325e1.herokuapp.com"><img title="Phoenix-MD Session ID" src="https://img.shields.io/badge/GET SESSION ID-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ## Phoenix-MD Deploy Method
 
