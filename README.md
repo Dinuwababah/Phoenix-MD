@@ -22,7 +22,7 @@ rysh11-MD Multi Device Whatsapp Bot.
 
 Fork The Repo
     <br>
-<a href="https://github.com/Dinuwababah/Phoenix-MD/blob/012381f2267bc064a36631f338f0897070698b2f/README.md/fork"><img title="rush-MD" src="https://img.shields.io/badge/FORK rush MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Dinuwababah/rush-MD/blob/012381f2267bc064a36631f338f0897070698b2f/README.md/fork"><img title="rush-MD" src="https://img.shields.io/badge/FORK rush MD-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 #### Session ID
 
